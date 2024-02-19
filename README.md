@@ -2,7 +2,7 @@
 
 This script is designed run on the financial report export within the lending software MyTurn that many Tool Libraries utilize.
 
-This script was downloaded with the workflow for the Buffalo Tool Library:
+This script was developed with the workflow for the Buffalo Tool Library:
 1. Export the data from MyTurn.
 2. Rename the export to "Start" and change the file type to "xlsx".
 3. Open the Python Script and choose the folder to run the script within. This is done inside your IDE.
