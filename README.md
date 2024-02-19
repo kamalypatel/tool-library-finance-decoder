@@ -1,4 +1,4 @@
-# How to User the MyTurn Finance Decoder
+# How to Use the MyTurn Finance Decoder
 
 This script is designed run on the financial report export within the lending software MyTurn that many Tool Libraries utilize.
 
