@@ -4,11 +4,13 @@ This script is designed run on the financial report export within the lending so
 
 This script was developed with the workflow for the Buffalo Tool Library:
 1. Export the data from MyTurn.
-2. Rename the export to "Start" and change the file type to "xlsx".
+2. Rename the export to "Start" and change the file type to "xlsx". This can be done by opening the export in MS Excel and then saving it as a "xlsx" file.
 3. Open the Python Script and choose the folder to run the script within. This is done inside your IDE.
 4. Then change the number of rows the script needs to run on within the Python Script.
 5. Then run the script.
 6. A file titled "End.xlsx" will be generated.
+
+This script is dependent on installing python and openpyxl on your computer. 
 
 This "End.xlsx" file won't be complete but will have 95% of the answers rather than doing it manually. Then you'll need to go to the original export to manually extract the missing data.
 
